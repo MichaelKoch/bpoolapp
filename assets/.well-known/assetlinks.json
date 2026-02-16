@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.BPool.MobileApp",
+      "sha256_cert_fingerprints": [
+        "F7:CA:31:9B:9B:D4:4F:87:4D:17:B5:69:88:69:79:2A:D4:86:64:79:56:18:F8:98:71:05:B8:40:39:09:66:03"
+      ]
+    }
+  }
+]
